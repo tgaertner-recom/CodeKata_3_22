@@ -1,0 +1,7 @@
+﻿{
+  "stryker-config":
+  {
+    "solution": "../MutantTesting.sln",
+    "project": "Calculator.csproj"
+  }
+}
